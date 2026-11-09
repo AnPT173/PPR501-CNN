@@ -1,4 +1,4 @@
-# CNN.ipynb — Thành viên 3
+# CNN.ipynb — huy26ms23411@fsb.edu.vn
 ## Phụ trách: Kiến trúc CNN, compile, huấn luyện và đánh giá
 
 **Phạm vi:** Cell 15–23; Mục 8–10.
